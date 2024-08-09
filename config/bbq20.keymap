@@ -263,7 +263,7 @@
         alt_layer {
 
             bindings = <        
-                		&mtt K_VOL_DN K_PREV                                                                    	 &mtt K_VOL_UP K_NEXT
+                		&mtt K_PREV K_VOL_DN                                                                    	 &mtt K_NEXT K_VOL_UP
 
     	         	&kp K_PREV			&kp K_VOL_DN	        &hm2 EP_TOG K_PP		&kp K_VOL_UP		&kp K_NEXT
 
