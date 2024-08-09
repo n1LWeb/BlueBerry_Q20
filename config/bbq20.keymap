@@ -263,9 +263,9 @@
         alt_layer {
 
             bindings = <        
-                		&mkp LCLK                                                                           	 &mkp RCLK
+                		&mtt K_VOL_DN K_PREV                                                                    	 &mtt K_VOL_UP K_NEXT
 
-    	         	&kp K_PREV			&kp K_VOL_DN	        &hm2 EP_TOG K_PP		&kp K_VOL_UP	&kp K_NEXT
+    	         	&kp K_PREV			&kp K_VOL_DN	        &hm2 EP_TOG K_PP		&kp K_VOL_UP		&kp K_NEXT
 
     &mtt TILDE HASH	   	&mtt HOME N1	   &mtt UP	N2	   &mtt PG_UP   N3	   &mtt LBKT LPAR	&mtt RBKT RPAR	   &mtt LT UNDER     &mtt GT MINUS	 &mtt CARET PLUS	&mtt PERCENT AT
     &mtt EQUAL STAR		&mtt LEFT N4	   &mtt DOWN	N5	   &mtt RIGHT	N6	   &mtt BSLH SLASH	&mtt PIPE COLON	   &mtt AMPS SEMI    &mtt APOS APOS	 &mtt DQT DQT     	&mtt DEL BSPC
